@@ -1,0 +1,21 @@
+{
+  "name": "cybernight",
+  "displayName": "cybernight",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyber Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyber Night-color-theme.json"
+      }
+    ]
+  }
+}
